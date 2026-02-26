@@ -1,0 +1,44 @@
+{
+    "subjects": [
+        {
+            "id": "sub1",
+            "name": "Mathematics",
+            "color": "#3B82F6"
+        },
+        {
+            "id": "sub2",
+            "name": "Computer Science",
+            "color": "#10B981"
+        },
+        {
+            "id": "sub3",
+            "name": "Physics",
+            "color": "#8B5CF6"
+        },
+        {
+            "id": "sub4",
+            "name": "History",
+            "color": "#F59E0B"
+        }
+    ],
+    "tasks": [
+        {
+            "id": "t1",
+            "subjectId": "sub1",
+            "title": "Calculus Homework",
+            "description": "Complete exercises 1-10 on Page 45",
+            "dueDate": "2026-02-05",
+            "priority": "High",
+            "status": "Pending"
+        },
+        {
+            "id": "t2",
+            "subjectId": "sub2",
+            "title": "React Project Setup",
+            "description": "Install Vite and Tailwind",
+            "dueDate": "2026-02-03",
+            "priority": "Medium",
+            "status": "Completed"
+        }
+    ]
+}
